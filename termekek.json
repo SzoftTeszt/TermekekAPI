@@ -121,17 +121,45 @@
     },
     {
       "name": "Zsák Szén",
-      "price": "200",
+      "price": 200,
       "description": "Jó minőségű fekete szén!",
       "image_url": "https://nat2012.nkp.hu/tankonyv/kemia_10_b/img/1.fejezet/iStock_000020193913_Large.png",
       "id": 20
     },
     {
       "name": "Világbéke",
-      "price": "100000",
+      "price": 100000,
       "description": "Teljes boldogság mindenhol",
       "image_url": "https://example.com/lamp.jpg",
       "id": 21
+    },
+    {
+      "name": "Vmi",
+      "price": 10.5,
+      "description": "sss",
+      "image_url": "eee",
+      "id": 22
+    },
+    {
+      "name": "AAAA",
+      "price": 12,
+      "description": "aaaaa",
+      "image_url": "aaaaaaa",
+      "id": 23
+    },
+    {
+      "name": "bbbb",
+      "price": 24,
+      "description": "www",
+      "image_url": "wwww",
+      "id": 24
+    },
+    {
+      "name": "ccc",
+      "price": 23.8,
+      "description": "eqweqw",
+      "image_url": "eqweqweqw",
+      "id": 25
     }
   ]
 }
